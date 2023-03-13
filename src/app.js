@@ -70,7 +70,7 @@ window.onload = () => {
         appendSeconds.innerHTML = seconds;
       }
 
-      if (seconds > 59) {
+      if (seconds == 60) {
         seconds = 0;
         minutes++;
         appendMinutes.innerHTML = "0" + minutes;
