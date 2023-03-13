@@ -1,11 +1,11 @@
 # stopWatch General 2023
 
 # Website
-Check it out for yourself: <br>
+• Check it out for yourself: <br>
 [StopWatchGeneral](https://stopwatch-b5b6a.web.app/) 
 
 # Description
-Hello, everyone this project is stopWatch it is very simple projects with loading animation that is loading 5 seconds and then the site shows up.You can stop and reset the timer anytime you want.I used Firebass for hosting the site.
+• Hello, everyone this project is stopWatch it is very simple projects with loading animation that is loading 5 seconds and then the site shows up. <bbr> You can stop and reset the timer anytime you want.I used Firebass for hosting the site.
 
 # Thank you for your time!
 • If you want to spend a little more time with me you can check my code! <br>
