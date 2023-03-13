@@ -1,5 +1,7 @@
 # stopWatch General 2023
 
+#Description
+Hello, everyone this project is stopWatch it is very simple projects with loading animation that is loading 5 seconds and then the site shows up.You can stop and reset the timer anytime you want.
 #Images
 
 
